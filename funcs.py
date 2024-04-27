@@ -1,2 +1,3 @@
-def summa_2(a, b):
+def sum_2(a, b):
     return a + b
+
