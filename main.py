@@ -1,4 +1,4 @@
-from funcs import sum_2
+from funcs import sum_2, substr_2
 
-print(sum_2(2, 3))
+print(substr_2(5, 3))
 
